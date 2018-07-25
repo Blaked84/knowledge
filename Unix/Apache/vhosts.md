@@ -1,4 +1,4 @@
-## Default vhost
+# Default vhost
 
 ```xml
 <VirtualHost *:80>
